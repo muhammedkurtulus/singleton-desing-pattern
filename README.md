@@ -13,6 +13,6 @@ A boilerplate template for Nest.js and singleton design pattern.
 - Clone the repository
 - Install dependencies `npm install`
 - Run `npm run start:dev` to start the development server
-- Open the 'http://localhost:3000/singleton' in a browser 
+- Open the `http://localhost:3000/singleton` in a browser 
 
 <!-- ### Screenshots
