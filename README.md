@@ -1,6 +1,6 @@
 # Nest.js - TypeScript
 
-A boilerplate template for singleton design pattern.
+A simple example for singleton design pattern.
 
 ## Built with
 
